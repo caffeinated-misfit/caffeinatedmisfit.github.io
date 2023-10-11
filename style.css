@@ -1,0 +1,39 @@
+body {
+    background-color: #D7D4DD;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Cutive', serif;
+}
+
+header {
+    background-color: #838BC2;
+    padding: 30px;
+    font-size: 35px;
+    color:#333F63;
+}
+
+.footer {
+    background-color: #838BC2;
+    padding: 30px;
+    text-align: center;
+    font-size: 20px;
+    color:#333F63;
+}
+
+p {
+    color: #715C8C;
+    font-size: 25px;
+}
+
+.headerinfo {
+    float: right;
+}
+
+.pic {
+    float: top;
+}
+
+.pone {
+    width: 50%;
+    height: 400px;
+    text-align: justify;
+}
